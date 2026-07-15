@@ -8,4 +8,4 @@ Sou grato por todas as pessoas quem me relacionei e em especial à aquelas que m
 
 **Quer me conhecer mais?**  
 
-- Você pode me encontrar pelo **[LinkedIn](https://www.linkedin.com/in/gabriel-rodrigues-amador/)**.
+- Você pode me encontrar pelo **[LinkedIn](https://www.linkedin.com/in/amadorgabrieldev/)**.
