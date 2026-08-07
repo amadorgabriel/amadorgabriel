@@ -1,11 +1,5 @@
-Olá, me chamo Gabriel Rodrigues Amador e entrei para programação aos 16 anos. Trabalho com a programação desde 2021 como Desenvolvedor Frontend e atualmente tenho focado meus estudos em ReactJS e Typescript.
+Me chamo Gabriel Rodrigues  e entrei para programação aos 16 anos. Trabalho com TI desde 2021 e atualmente tenho focado meus estudos em construir sistemas de ponta a ponta.
 
-Carrego comigo muito entusiasmo. No momento atual tenho procurado expandir meus horizontes com novos desafios, estudos e causas para colaborar. Acredito que meu caminho profissional se sustenta em extrair o melhor das experiências, contruir relacionamentos, aprender e passar conhecimento. 
-
-Sou grato por todas as pessoas quem me relacionei e em especial à aquelas que me ajudaram a melhorar meu potêncial.
-
-<br />
-
-**Quer me conhecer mais?**  
-
-- Você pode me encontrar pelo **[LinkedIn](https://www.linkedin.com/in/amadorgabrieldev/)**.
+- Portfolio: [amadorgabriel.vercel.app](https://amadorgabriel.vercel.app)
+- LinkedIn: [linkedin.com/in/amadorgabrieldev](https://linkedin.com/in/amadorgabrieldev)
+- Email: [amadorgabriel.dev@gmail.com](mailto:amadorgabriel.dev@gmail.com)
